@@ -1,3 +1,1 @@
-# portfolio
-# portfolio1
-# portfolio1
+This repository contains the starter files to my portfolio
